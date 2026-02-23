@@ -11,3 +11,4 @@
 `C++17` · `CMake` · `Git` · `Linux` · `VS Code` · `.NET CLI`
 
 Больше деталей в [репозитории проекта](https://github.com/sirz1rael/yetanotherlogger) и в [полном резюме](https://sirz1rael.github.io/).
+И немного забавный проект, но тоже достойный внимания : [клик](https://github.com/sirz1rael/video_to_ascii).
