@@ -1,16 +1,13 @@
-## Hi there 👋
+### Привет, я Никита 👋
 
-<!--
-**sirz1rael/sirz1rael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior C# / .NET Developer** из Санкт-Петербурга.
 
-Here are some ideas to get you started:
+- 🔭 Сейчас работаю над **yetanotherlogger** — header-only библиотекой логирования на C++17 (многопоточность, ротация, ASan/Valgrind).
+- 🌱 Активно осваиваю **.NET 8**, ASP.NET Core, Entity Framework.
+- 📫 На связи тут: [Telegram](https://t.me/sirz1rael) · [GitHub](https://github.com/sirz1rael) · nkurakin.cl@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Технический стек
+`C#` · `.NET 8` · `ASP.NET Core` · `SQL` · `PostgreSQL` · `EF Core`  
+`C++17` · `CMake` · `Git` · `Linux` · `VS Code` · `.NET CLI`
+
+Больше деталей в [репозитории проекта](https://github.com/sirz1rael/yetanotherlogger) и в [полном резюме](https://sirz1rael.github.io/).
